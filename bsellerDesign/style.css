@@ -199,6 +199,22 @@ nav{
     clip-path: polygon(0 0, 100% 0, 100% 100%, 0 85%);
 }
 
+.payment{
+    width: 500px;
+    height: 500px;
+    background-color: white;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    padding: 10px 50px;
+    display: flex;
+    flex-direction: column;
+
+}
+
 .productImg{
     width: 50%;
 }
